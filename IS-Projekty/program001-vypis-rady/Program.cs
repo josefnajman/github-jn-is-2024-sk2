@@ -16,26 +16,29 @@ class Program {
             Console.WriteLine("**************************\n\n");
             Console.WriteLine();
 
-            // Vstup od uživatele - TO-DO
             // Vstup od uživatele - špatná varianta
             //Console.Write("Zadejte první číslo řady: ");
             //int first = int.Parse(Console.ReadLine());
+
             // Vstup od uživatele - lepší varianta
             Console.Write("Zadejte první číslo řady (celé číslo): ");
             int first;
             while(!int.TryParse(Console.ReadLine(), out first)) {
                 Console.Write("Nezadali jste celé číslo. Zadejte znovu první číslo řady (celé číslo): ");
             }
+
             Console.Write("Zadejte poslední číslo řady (celé číslo): ");
             int last;
             while(!int.TryParse(Console.ReadLine(), out last)) {
                 Console.Write("Nezadali jste celé číslo. Zadejte znovu poslední číslo řady (celé číslo): ");
             }
+
             Console.Write("Zadejte diference (celé číslo): ");
             int step;
             while(!int.TryParse(Console.ReadLine(), out step)) {
                 Console.Write("Nezadali jste celé číslo. Zadejte diference (celé číslo): ");
             }
+
             // Výpis uživatelského vstupu
             Console.WriteLine();
             Console.WriteLine("======================================");
@@ -46,6 +49,11 @@ class Program {
             Console.WriteLine();
 
             // Logika pro výpis řady - TO-DO
+            int current = first;
+            while(current <= last) {
+                Console.WriteLine(current);
+                current = current + step;
+            }
 
 
             // Opakování programu
@@ -56,4 +64,5 @@ class Program {
 
 
 }
+
 
