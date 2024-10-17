@@ -1,0 +1,15 @@
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program002a-soucet-cifer/bin/Debug/net8.0/program002a-soucet-cifer
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program002a-soucet-cifer/bin/Debug/net8.0/program002a-soucet-cifer.deps.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program002a-soucet-cifer/bin/Debug/net8.0/program002a-soucet-cifer.runtimeconfig.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program002a-soucet-cifer/bin/Debug/net8.0/program002a-soucet-cifer.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program002a-soucet-cifer/bin/Debug/net8.0/program002a-soucet-cifer.pdb
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program002a-soucet-cifer/obj/Debug/net8.0/program002a-soucet-cifer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program002a-soucet-cifer/obj/Debug/net8.0/program002a-soucet-cifer.AssemblyInfoInputs.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program002a-soucet-cifer/obj/Debug/net8.0/program002a-soucet-cifer.AssemblyInfo.cs
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program002a-soucet-cifer/obj/Debug/net8.0/program002a-soucet-cifer.csproj.CoreCompileInputs.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program002a-soucet-cifer/obj/Debug/net8.0/program002a-soucet-cifer.sourcelink.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program002a-soucet-cifer/obj/Debug/net8.0/program002a-soucet-cifer.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program002a-soucet-cifer/obj/Debug/net8.0/refint/program002a-soucet-cifer.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program002a-soucet-cifer/obj/Debug/net8.0/program002a-soucet-cifer.pdb
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program002a-soucet-cifer/obj/Debug/net8.0/program002a-soucet-cifer.genruntimeconfig.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program002a-soucet-cifer/obj/Debug/net8.0/ref/program002a-soucet-cifer.dll
