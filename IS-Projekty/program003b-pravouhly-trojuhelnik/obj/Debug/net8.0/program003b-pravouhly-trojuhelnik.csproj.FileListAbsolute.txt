@@ -1,0 +1,15 @@
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program003b-pravouhly-trojuhelnik/bin/Debug/net8.0/program003b-pravouhly-trojuhelnik
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program003b-pravouhly-trojuhelnik/bin/Debug/net8.0/program003b-pravouhly-trojuhelnik.deps.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program003b-pravouhly-trojuhelnik/bin/Debug/net8.0/program003b-pravouhly-trojuhelnik.runtimeconfig.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program003b-pravouhly-trojuhelnik/bin/Debug/net8.0/program003b-pravouhly-trojuhelnik.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program003b-pravouhly-trojuhelnik/bin/Debug/net8.0/program003b-pravouhly-trojuhelnik.pdb
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program003b-pravouhly-trojuhelnik/obj/Debug/net8.0/program003b-pravouhly-trojuhelnik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program003b-pravouhly-trojuhelnik/obj/Debug/net8.0/program003b-pravouhly-trojuhelnik.AssemblyInfoInputs.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program003b-pravouhly-trojuhelnik/obj/Debug/net8.0/program003b-pravouhly-trojuhelnik.AssemblyInfo.cs
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program003b-pravouhly-trojuhelnik/obj/Debug/net8.0/program003b-pravouhly-trojuhelnik.csproj.CoreCompileInputs.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program003b-pravouhly-trojuhelnik/obj/Debug/net8.0/program003b-pravouhly-trojuhelnik.sourcelink.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program003b-pravouhly-trojuhelnik/obj/Debug/net8.0/program003b-pravouhly-trojuhelnik.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program003b-pravouhly-trojuhelnik/obj/Debug/net8.0/refint/program003b-pravouhly-trojuhelnik.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program003b-pravouhly-trojuhelnik/obj/Debug/net8.0/program003b-pravouhly-trojuhelnik.pdb
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program003b-pravouhly-trojuhelnik/obj/Debug/net8.0/program003b-pravouhly-trojuhelnik.genruntimeconfig.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program003b-pravouhly-trojuhelnik/obj/Debug/net8.0/ref/program003b-pravouhly-trojuhelnik.dll

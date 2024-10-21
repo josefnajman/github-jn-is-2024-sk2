@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("program003a-obdelnik")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("program003b-pravouhly-trojuhelnik")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3469692ca954a96058bd1ea0116b96647e8c8ccb")]
-[assembly: System.Reflection.AssemblyProductAttribute("program003a-obdelnik")]
-[assembly: System.Reflection.AssemblyTitleAttribute("program003a-obdelnik")]
+[assembly: System.Reflection.AssemblyProductAttribute("program003b-pravouhly-trojuhelnik")]
+[assembly: System.Reflection.AssemblyTitleAttribute("program003b-pravouhly-trojuhelnik")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Vygenerované třídou WriteCodeFragment nástroje MSBuild
