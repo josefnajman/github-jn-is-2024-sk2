@@ -30,8 +30,21 @@
             Console.WriteLine("Uživatelský vstup: ");
             Console.WriteLine("Počet čísel: {0}; dolní mez: {1}; horní mez: {2}", n, dm, hm);
             Console.WriteLine("\n\n=================");
-          
+
+            // Deklarace pole
+            int[] myArray = new int [n];
+
+            // Příprava pro generování náhodných čísel
+            Random randomNumber = new Random();
+
+            Console.WriteLine("Náhodná čísla: ");
+
+            for(int i=0; i <n; i++) {
+                myArray[i] = randomNumber.Next(dm, hm+1);
+                Console.Write("{0}; ", myArray[i]);
+            }
+
             // Opakování programu
-            Console.WriteLine("Pro opakování programu stiskněte klávesu a");
+            Console.WriteLine("\n\nPro opakování programu stiskněte klávesu a");
             again = Console.ReadLine();
         }
