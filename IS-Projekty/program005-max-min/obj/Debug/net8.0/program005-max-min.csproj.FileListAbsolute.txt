@@ -1,0 +1,15 @@
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program005-max-min/bin/Debug/net8.0/program005-max-min
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program005-max-min/bin/Debug/net8.0/program005-max-min.deps.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program005-max-min/bin/Debug/net8.0/program005-max-min.runtimeconfig.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program005-max-min/bin/Debug/net8.0/program005-max-min.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program005-max-min/bin/Debug/net8.0/program005-max-min.pdb
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program005-max-min/obj/Debug/net8.0/program005-max-min.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program005-max-min/obj/Debug/net8.0/program005-max-min.AssemblyInfoInputs.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program005-max-min/obj/Debug/net8.0/program005-max-min.AssemblyInfo.cs
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program005-max-min/obj/Debug/net8.0/program005-max-min.csproj.CoreCompileInputs.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program005-max-min/obj/Debug/net8.0/program005-max-min.sourcelink.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program005-max-min/obj/Debug/net8.0/program005-max-min.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program005-max-min/obj/Debug/net8.0/refint/program005-max-min.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program005-max-min/obj/Debug/net8.0/program005-max-min.pdb
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program005-max-min/obj/Debug/net8.0/program005-max-min.genruntimeconfig.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program005-max-min/obj/Debug/net8.0/ref/program005-max-min.dll

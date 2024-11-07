@@ -1,0 +1,15 @@
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program003c-obrazec1/bin/Debug/net8.0/program003c-obrazec1
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program003c-obrazec1/bin/Debug/net8.0/program003c-obrazec1.deps.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program003c-obrazec1/bin/Debug/net8.0/program003c-obrazec1.runtimeconfig.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program003c-obrazec1/bin/Debug/net8.0/program003c-obrazec1.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program003c-obrazec1/bin/Debug/net8.0/program003c-obrazec1.pdb
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program003c-obrazec1/obj/Debug/net8.0/program003c-obrazec1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program003c-obrazec1/obj/Debug/net8.0/program003c-obrazec1.AssemblyInfoInputs.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program003c-obrazec1/obj/Debug/net8.0/program003c-obrazec1.AssemblyInfo.cs
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program003c-obrazec1/obj/Debug/net8.0/program003c-obrazec1.csproj.CoreCompileInputs.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program003c-obrazec1/obj/Debug/net8.0/program003c-obrazec1.sourcelink.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program003c-obrazec1/obj/Debug/net8.0/program003c-obrazec1.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program003c-obrazec1/obj/Debug/net8.0/refint/program003c-obrazec1.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program003c-obrazec1/obj/Debug/net8.0/program003c-obrazec1.pdb
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program003c-obrazec1/obj/Debug/net8.0/program003c-obrazec1.genruntimeconfig.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program003c-obrazec1/obj/Debug/net8.0/ref/program003c-obrazec1.dll
