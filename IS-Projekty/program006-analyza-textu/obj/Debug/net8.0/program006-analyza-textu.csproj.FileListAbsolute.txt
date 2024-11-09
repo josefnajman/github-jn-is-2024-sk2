@@ -1,0 +1,15 @@
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program006-analyza-textu/bin/Debug/net8.0/program006-analyza-textu
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program006-analyza-textu/bin/Debug/net8.0/program006-analyza-textu.deps.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program006-analyza-textu/bin/Debug/net8.0/program006-analyza-textu.runtimeconfig.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program006-analyza-textu/bin/Debug/net8.0/program006-analyza-textu.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program006-analyza-textu/bin/Debug/net8.0/program006-analyza-textu.pdb
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program006-analyza-textu/obj/Debug/net8.0/program006-analyza-textu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program006-analyza-textu/obj/Debug/net8.0/program006-analyza-textu.AssemblyInfoInputs.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program006-analyza-textu/obj/Debug/net8.0/program006-analyza-textu.AssemblyInfo.cs
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program006-analyza-textu/obj/Debug/net8.0/program006-analyza-textu.csproj.CoreCompileInputs.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program006-analyza-textu/obj/Debug/net8.0/program006-analyza-textu.sourcelink.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program006-analyza-textu/obj/Debug/net8.0/program006-analyza-textu.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program006-analyza-textu/obj/Debug/net8.0/refint/program006-analyza-textu.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program006-analyza-textu/obj/Debug/net8.0/program006-analyza-textu.pdb
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program006-analyza-textu/obj/Debug/net8.0/program006-analyza-textu.genruntimeconfig.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program006-analyza-textu/obj/Debug/net8.0/ref/program006-analyza-textu.dll
