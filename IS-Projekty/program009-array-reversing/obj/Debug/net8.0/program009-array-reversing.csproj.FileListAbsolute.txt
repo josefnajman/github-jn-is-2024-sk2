@@ -1,0 +1,15 @@
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program009-array-reversing/bin/Debug/net8.0/program009-array-reversing
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program009-array-reversing/bin/Debug/net8.0/program009-array-reversing.deps.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program009-array-reversing/bin/Debug/net8.0/program009-array-reversing.runtimeconfig.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program009-array-reversing/bin/Debug/net8.0/program009-array-reversing.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program009-array-reversing/bin/Debug/net8.0/program009-array-reversing.pdb
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program009-array-reversing/obj/Debug/net8.0/program009-array-reversing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program009-array-reversing/obj/Debug/net8.0/program009-array-reversing.AssemblyInfoInputs.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program009-array-reversing/obj/Debug/net8.0/program009-array-reversing.AssemblyInfo.cs
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program009-array-reversing/obj/Debug/net8.0/program009-array-reversing.csproj.CoreCompileInputs.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program009-array-reversing/obj/Debug/net8.0/program009-array-reversing.sourcelink.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program009-array-reversing/obj/Debug/net8.0/program009-array-reversing.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program009-array-reversing/obj/Debug/net8.0/refint/program009-array-reversing.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program009-array-reversing/obj/Debug/net8.0/program009-array-reversing.pdb
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program009-array-reversing/obj/Debug/net8.0/program009-array-reversing.genruntimeconfig.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program009-array-reversing/obj/Debug/net8.0/ref/program009-array-reversing.dll
