@@ -1,0 +1,15 @@
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program007-bubble-sort/bin/Debug/net8.0/program007-bubble-sort
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program007-bubble-sort/bin/Debug/net8.0/program007-bubble-sort.deps.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program007-bubble-sort/bin/Debug/net8.0/program007-bubble-sort.runtimeconfig.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program007-bubble-sort/bin/Debug/net8.0/program007-bubble-sort.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program007-bubble-sort/bin/Debug/net8.0/program007-bubble-sort.pdb
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program007-bubble-sort/obj/Debug/net8.0/program007-bubble-sort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program007-bubble-sort/obj/Debug/net8.0/program007-bubble-sort.AssemblyInfoInputs.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program007-bubble-sort/obj/Debug/net8.0/program007-bubble-sort.AssemblyInfo.cs
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program007-bubble-sort/obj/Debug/net8.0/program007-bubble-sort.csproj.CoreCompileInputs.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program007-bubble-sort/obj/Debug/net8.0/program007-bubble-sort.sourcelink.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program007-bubble-sort/obj/Debug/net8.0/program007-bubble-sort.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program007-bubble-sort/obj/Debug/net8.0/refint/program007-bubble-sort.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program007-bubble-sort/obj/Debug/net8.0/program007-bubble-sort.pdb
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program007-bubble-sort/obj/Debug/net8.0/program007-bubble-sort.genruntimeconfig.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program007-bubble-sort/obj/Debug/net8.0/ref/program007-bubble-sort.dll

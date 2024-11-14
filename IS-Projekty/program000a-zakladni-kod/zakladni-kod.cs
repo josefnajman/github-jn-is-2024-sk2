@@ -8,7 +8,7 @@ class Program {
         // chci, aby se program opakoval po stisku klávesy "a"
         string again = "a";
         while(again == "a") {
-            //Console.Clear();
+            Console.Clear();
             Console.WriteLine("**************************");
             Console.WriteLine("******* Výpis řady *******");
             Console.WriteLine("**************************");
