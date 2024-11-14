@@ -1,13 +1,15 @@
-﻿using System.Security.Authentication.ExtendedProtection;
+﻿using System.IO.Compression;
+using System.Security.Authentication;
+using System.Security.Authentication.ExtendedProtection;
 
 string again = "a";
         while(again == "a") {
             Console.Clear();
-            Console.WriteLine("***********************************************");
-            Console.WriteLine("******* Generátor pseudonáhodných čísel *******");
-            Console.WriteLine("***********************************************");
-            Console.WriteLine("**************** Josef Najman *****************");
-            Console.WriteLine("***********************************************\n\n");
+            Console.WriteLine("****************************");
+            Console.WriteLine("******* Reverze Pole *******");
+            Console.WriteLine("****************************");
+            Console.WriteLine("******* Josef Najman *******");
+            Console.WriteLine("****************************\n\n");
             Console.WriteLine();
 
             
@@ -34,20 +36,26 @@ string again = "a";
             Console.WriteLine("Počet čísel: {0}; dolní mez: {1}; horní mez: {2}", n, dm, hm);
             Console.WriteLine("====================\n\n");
 
-            // deklarace pole
+             //deklarace pole    
             int[] myArray = new int[n];
-
-            // příprava pro generování náhodných čísel
             Random randomNumber = new Random();
-
-            Console.WriteLine("Náhodná čísla: ");
-
+            Console.WriteLine("\n\nNáhodná čísla:");
             for(int i=0; i<n; i++) {
                 myArray[i] = randomNumber.Next(dm, hm+1);
-                Console.Write("{0}; ", myArray[i]);
+                Console.Write("{0}; ", myArray[i]); 
+            }
+            for(int i =0 ; i < n/2 ; i++) {
+                int tmp = myArray[i];
+                myArray[i] = myArray[n-i-1];
+                myArray[n-i-1] = tmp;
             }
             
-            // Opakování programu
-            Console.WriteLine("\n\nPro opakování programu stiskněte klávesu a");
+            Console.WriteLine("\n\nPole po reverzi: ");
+            for(int i=0; i<n; i++) {
+                Console.Write("{0}; ", myArray[i]); 
+            }
+            //Opakování programu
+            Console.WriteLine();
+            Console.WriteLine("Pro opakování programu stiskněte klávesu a");
             again = Console.ReadLine();
         }
