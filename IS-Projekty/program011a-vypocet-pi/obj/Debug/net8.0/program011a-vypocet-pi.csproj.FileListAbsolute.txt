@@ -1,0 +1,15 @@
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program011a-vypocet-pi/bin/Debug/net8.0/program011a-vypocet-pi
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program011a-vypocet-pi/bin/Debug/net8.0/program011a-vypocet-pi.deps.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program011a-vypocet-pi/bin/Debug/net8.0/program011a-vypocet-pi.runtimeconfig.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program011a-vypocet-pi/bin/Debug/net8.0/program011a-vypocet-pi.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program011a-vypocet-pi/bin/Debug/net8.0/program011a-vypocet-pi.pdb
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program011a-vypocet-pi/obj/Debug/net8.0/program011a-vypocet-pi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program011a-vypocet-pi/obj/Debug/net8.0/program011a-vypocet-pi.AssemblyInfoInputs.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program011a-vypocet-pi/obj/Debug/net8.0/program011a-vypocet-pi.AssemblyInfo.cs
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program011a-vypocet-pi/obj/Debug/net8.0/program011a-vypocet-pi.csproj.CoreCompileInputs.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program011a-vypocet-pi/obj/Debug/net8.0/program011a-vypocet-pi.sourcelink.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program011a-vypocet-pi/obj/Debug/net8.0/program011a-vypocet-pi.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program011a-vypocet-pi/obj/Debug/net8.0/refint/program011a-vypocet-pi.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program011a-vypocet-pi/obj/Debug/net8.0/program011a-vypocet-pi.pdb
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program011a-vypocet-pi/obj/Debug/net8.0/program011a-vypocet-pi.genruntimeconfig.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program011a-vypocet-pi/obj/Debug/net8.0/ref/program011a-vypocet-pi.dll
