@@ -1,0 +1,15 @@
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program012a-intervaly/bin/Debug/net8.0/program012a-intervaly
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program012a-intervaly/bin/Debug/net8.0/program012a-intervaly.deps.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program012a-intervaly/bin/Debug/net8.0/program012a-intervaly.runtimeconfig.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program012a-intervaly/bin/Debug/net8.0/program012a-intervaly.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program012a-intervaly/bin/Debug/net8.0/program012a-intervaly.pdb
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program012a-intervaly/obj/Debug/net8.0/program012a-intervaly.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program012a-intervaly/obj/Debug/net8.0/program012a-intervaly.AssemblyInfoInputs.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program012a-intervaly/obj/Debug/net8.0/program012a-intervaly.AssemblyInfo.cs
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program012a-intervaly/obj/Debug/net8.0/program012a-intervaly.csproj.CoreCompileInputs.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program012a-intervaly/obj/Debug/net8.0/program012a-intervaly.sourcelink.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program012a-intervaly/obj/Debug/net8.0/program012a-intervaly.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program012a-intervaly/obj/Debug/net8.0/refint/program012a-intervaly.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program012a-intervaly/obj/Debug/net8.0/program012a-intervaly.pdb
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program012a-intervaly/obj/Debug/net8.0/program012a-intervaly.genruntimeconfig.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program012a-intervaly/obj/Debug/net8.0/ref/program012a-intervaly.dll
