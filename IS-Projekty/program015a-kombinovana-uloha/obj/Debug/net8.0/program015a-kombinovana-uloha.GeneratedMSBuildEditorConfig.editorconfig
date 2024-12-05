@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = program015a_kombinovana_uloha
-build_property.ProjectDir = C:\aaa\IS-2024\github-jn-is-2024-sk2\IS-Projekty\program015a-kombinovana-uloha\
+build_property.ProjectDir = /Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program015a-kombinovana-uloha/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

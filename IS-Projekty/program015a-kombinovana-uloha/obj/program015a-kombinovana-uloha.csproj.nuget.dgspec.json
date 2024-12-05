@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\aaa\\IS-2024\\github-jn-is-2024-sk2\\IS-Projekty\\program015a-kombinovana-uloha\\program015a-kombinovana-uloha.csproj": {}
+    "/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program015a-kombinovana-uloha/program015a-kombinovana-uloha.csproj": {}
   },
   "projects": {
-    "C:\\aaa\\IS-2024\\github-jn-is-2024-sk2\\IS-Projekty\\program015a-kombinovana-uloha\\program015a-kombinovana-uloha.csproj": {
+    "/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program015a-kombinovana-uloha/program015a-kombinovana-uloha.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\aaa\\IS-2024\\github-jn-is-2024-sk2\\IS-Projekty\\program015a-kombinovana-uloha\\program015a-kombinovana-uloha.csproj",
+        "projectUniqueName": "/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program015a-kombinovana-uloha/program015a-kombinovana-uloha.csproj",
         "projectName": "program015a-kombinovana-uloha",
-        "projectPath": "C:\\aaa\\IS-2024\\github-jn-is-2024-sk2\\IS-Projekty\\program015a-kombinovana-uloha\\program015a-kombinovana-uloha.csproj",
-        "packagesPath": "C:\\Users\\Uzivatel\\.nuget\\packages\\",
-        "outputPath": "C:\\aaa\\IS-2024\\github-jn-is-2024-sk2\\IS-Projekty\\program015a-kombinovana-uloha\\obj\\",
+        "projectPath": "/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program015a-kombinovana-uloha/program015a-kombinovana-uloha.csproj",
+        "packagesPath": "/Users/josef.najman/.nuget/packages/",
+        "outputPath": "/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program015a-kombinovana-uloha/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Uzivatel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/josef.najman/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
