@@ -1,0 +1,15 @@
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program016a-NSD-NSN/bin/Debug/net8.0/program016a-NSD-NSN
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program016a-NSD-NSN/bin/Debug/net8.0/program016a-NSD-NSN.deps.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program016a-NSD-NSN/bin/Debug/net8.0/program016a-NSD-NSN.runtimeconfig.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program016a-NSD-NSN/bin/Debug/net8.0/program016a-NSD-NSN.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program016a-NSD-NSN/bin/Debug/net8.0/program016a-NSD-NSN.pdb
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program016a-NSD-NSN/obj/Debug/net8.0/program016a-NSD-NSN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program016a-NSD-NSN/obj/Debug/net8.0/program016a-NSD-NSN.AssemblyInfoInputs.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program016a-NSD-NSN/obj/Debug/net8.0/program016a-NSD-NSN.AssemblyInfo.cs
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program016a-NSD-NSN/obj/Debug/net8.0/program016a-NSD-NSN.csproj.CoreCompileInputs.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program016a-NSD-NSN/obj/Debug/net8.0/program016a-NSD-NSN.sourcelink.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program016a-NSD-NSN/obj/Debug/net8.0/program016a-NSD-NSN.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program016a-NSD-NSN/obj/Debug/net8.0/refint/program016a-NSD-NSN.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program016a-NSD-NSN/obj/Debug/net8.0/program016a-NSD-NSN.pdb
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program016a-NSD-NSN/obj/Debug/net8.0/program016a-NSD-NSN.genruntimeconfig.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program016a-NSD-NSN/obj/Debug/net8.0/ref/program016a-NSD-NSN.dll
