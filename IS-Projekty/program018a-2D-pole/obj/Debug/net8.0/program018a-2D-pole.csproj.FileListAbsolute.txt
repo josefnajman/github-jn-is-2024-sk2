@@ -1,0 +1,15 @@
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program018a-2D-pole/bin/Debug/net8.0/program018a-2D-pole
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program018a-2D-pole/bin/Debug/net8.0/program018a-2D-pole.deps.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program018a-2D-pole/bin/Debug/net8.0/program018a-2D-pole.runtimeconfig.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program018a-2D-pole/bin/Debug/net8.0/program018a-2D-pole.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program018a-2D-pole/bin/Debug/net8.0/program018a-2D-pole.pdb
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program018a-2D-pole/obj/Debug/net8.0/program018a-2D-pole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program018a-2D-pole/obj/Debug/net8.0/program018a-2D-pole.AssemblyInfoInputs.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program018a-2D-pole/obj/Debug/net8.0/program018a-2D-pole.AssemblyInfo.cs
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program018a-2D-pole/obj/Debug/net8.0/program018a-2D-pole.csproj.CoreCompileInputs.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program018a-2D-pole/obj/Debug/net8.0/program018a-2D-pole.sourcelink.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program018a-2D-pole/obj/Debug/net8.0/program018a-2D-pole.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program018a-2D-pole/obj/Debug/net8.0/refint/program018a-2D-pole.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program018a-2D-pole/obj/Debug/net8.0/program018a-2D-pole.pdb
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program018a-2D-pole/obj/Debug/net8.0/program018a-2D-pole.genruntimeconfig.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program018a-2D-pole/obj/Debug/net8.0/ref/program018a-2D-pole.dll

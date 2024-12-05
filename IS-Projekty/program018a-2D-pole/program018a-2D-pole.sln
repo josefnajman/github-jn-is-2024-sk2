@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "program018a-2D-pole", "program018a-2D-pole.csproj", "{A012D787-8C25-49AD-B017-54C218BD917E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A012D787-8C25-49AD-B017-54C218BD917E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A012D787-8C25-49AD-B017-54C218BD917E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A012D787-8C25-49AD-B017-54C218BD917E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A012D787-8C25-49AD-B017-54C218BD917E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1A37A69-05C3-4A3E-B1AF-E197D3AE64A1}
+	EndGlobalSection
+EndGlobal
