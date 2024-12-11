@@ -1,0 +1,15 @@
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program017a-Fibonacci/bin/Debug/net8.0/program017a-Fibonacci
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program017a-Fibonacci/bin/Debug/net8.0/program017a-Fibonacci.deps.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program017a-Fibonacci/bin/Debug/net8.0/program017a-Fibonacci.runtimeconfig.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program017a-Fibonacci/bin/Debug/net8.0/program017a-Fibonacci.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program017a-Fibonacci/bin/Debug/net8.0/program017a-Fibonacci.pdb
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program017a-Fibonacci/obj/Debug/net8.0/program017a-Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program017a-Fibonacci/obj/Debug/net8.0/program017a-Fibonacci.AssemblyInfoInputs.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program017a-Fibonacci/obj/Debug/net8.0/program017a-Fibonacci.AssemblyInfo.cs
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program017a-Fibonacci/obj/Debug/net8.0/program017a-Fibonacci.csproj.CoreCompileInputs.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program017a-Fibonacci/obj/Debug/net8.0/program017a-Fibonacci.sourcelink.json
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program017a-Fibonacci/obj/Debug/net8.0/program017a-Fibonacci.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program017a-Fibonacci/obj/Debug/net8.0/refint/program017a-Fibonacci.dll
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program017a-Fibonacci/obj/Debug/net8.0/program017a-Fibonacci.pdb
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program017a-Fibonacci/obj/Debug/net8.0/program017a-Fibonacci.genruntimeconfig.cache
+/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program017a-Fibonacci/obj/Debug/net8.0/ref/program017a-Fibonacci.dll
