@@ -1,4 +1,5 @@
 ﻿using System.Security.Authentication.ExtendedProtection;
+using System.Security.Cryptography.X509Certificates;
 
 string again = "a";
         while(again == "a") {
@@ -47,9 +48,32 @@ string again = "a";
                 Console.Write("{0}; ", myArray[i]);
             }
 
-            int[] numbers = new int[n];
-            int max = int.MaxValue;
-            List<int
+            // Comb sort
+
+            int gap = myArray.Length;
+            const double shrink = 1.3;
+            bool sorted = false;
+
+            while (!sorted) {
+                gap = (int)(gap / shrink);
+                if (gap < 1) gap = 1;
+
+                sorted = true;
+
+                for (int x = 0; x + gap < myArray.Length; x++) {
+                    if (myArray[x] > myArray[x + gap]) {
+                        // Prohození prvků
+                        int temp = myArray[x];
+                        myArray[x] = myArray[x + gap];
+                        myArray[x + gap] = temp;
+
+                        sorted = false;
+                    }
+                }
+
+            }
+
+
             
             // Opakování programu
             Console.WriteLine("\n\nPro opakování programu stiskněte klávesu a");

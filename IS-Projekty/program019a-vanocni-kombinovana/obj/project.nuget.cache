@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "6VPtI5KmZG0=",
+  "dgSpecHash": "HA5cVQFZqVo=",
   "success": true,
-  "projectFilePath": "C:\\aaa\\IS-2024\\github-jn-is-2024-sk2\\IS-Projekty\\program019a-vanocni-kombinovana\\program019a-vanocni-kombinovana.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program019a-vanocni-kombinovana/program019a-vanocni-kombinovana.csproj",
+  "expectedPackageFiles": [
+    "/Users/josef.najman/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/josef.najman/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/josef.najman/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.20/microsoft.netcore.app.host.osx-arm64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

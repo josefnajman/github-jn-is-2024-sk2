@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\aaa\\IS-2024\\github-jn-is-2024-sk2\\IS-Projekty\\program019a-vanocni-kombinovana\\program019a-vanocni-kombinovana.csproj": {}
+    "/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program019a-vanocni-kombinovana/program019a-vanocni-kombinovana.csproj": {}
   },
   "projects": {
-    "C:\\aaa\\IS-2024\\github-jn-is-2024-sk2\\IS-Projekty\\program019a-vanocni-kombinovana\\program019a-vanocni-kombinovana.csproj": {
+    "/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program019a-vanocni-kombinovana/program019a-vanocni-kombinovana.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\aaa\\IS-2024\\github-jn-is-2024-sk2\\IS-Projekty\\program019a-vanocni-kombinovana\\program019a-vanocni-kombinovana.csproj",
+        "projectUniqueName": "/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program019a-vanocni-kombinovana/program019a-vanocni-kombinovana.csproj",
         "projectName": "program019a-vanocni-kombinovana",
-        "projectPath": "C:\\aaa\\IS-2024\\github-jn-is-2024-sk2\\IS-Projekty\\program019a-vanocni-kombinovana\\program019a-vanocni-kombinovana.csproj",
-        "packagesPath": "C:\\Users\\Uzivatel\\.nuget\\packages\\",
-        "outputPath": "C:\\aaa\\IS-2024\\github-jn-is-2024-sk2\\IS-Projekty\\program019a-vanocni-kombinovana\\obj\\",
+        "projectPath": "/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program019a-vanocni-kombinovana/program019a-vanocni-kombinovana.csproj",
+        "packagesPath": "/Users/josef.najman/.nuget/packages/",
+        "outputPath": "/Users/josef.najman/Documents/IS-2024/github-jn-is-2024-sk2/IS-Projekty/program019a-vanocni-kombinovana/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Uzivatel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/josef.najman/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -37,8 +37,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net7.0": {
@@ -54,12 +53,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/RuntimeIdentifierGraph.json"
         }
       }
     }
